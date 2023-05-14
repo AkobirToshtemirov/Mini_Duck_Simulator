@@ -4,9 +4,9 @@ import duck.flyBehavior.FlyBehavior;
 import duck.quackBehavior.QuackBehavior;
 
 public abstract class Duck {
-    FlyBehavior flyBehavior;
-    QuackBehavior quackBehavior;
-    abstract void display();
+    protected FlyBehavior flyBehavior;
+    protected QuackBehavior quackBehavior;
+    protected abstract void display();
     public void performFly(){
         flyBehavior.fly();
     }

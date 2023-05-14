@@ -4,24 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f4c6ab8-4d57-49bf-b7ba-cf10fc97096a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini_Duck_Simulator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MiniDuckSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duck/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duck/flyBehavior/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duck/flyBehavior/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duck/flyBehavior/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duck/quackBehavior/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duck/quackBehavior/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duck/quackBehavior/Silence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/duck/quackBehavior/Squeak.java" afterDir="false" />
+    <list default="true" id="6f4c6ab8-4d57-49bf-b7ba-cf10fc97096a" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/duck/ducks/MallarDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duck/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duck/Duck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +20,13 @@
         <option value="Interface" />
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -61,6 +54,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684025002372</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1684026444546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684026444546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
