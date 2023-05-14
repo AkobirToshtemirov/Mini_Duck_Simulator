@@ -14,4 +14,6 @@ public class MallarDuck extends Duck {
     protected void display() {
         System.out.println("I'm a real Mallard duck!");
     }
+
+
 }

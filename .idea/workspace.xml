@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f4c6ab8-4d57-49bf-b7ba-cf10fc97096a" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/duck/ducks/MallarDuck.java" afterDir="false" />
+    <list default="true" id="6f4c6ab8-4d57-49bf-b7ba-cf10fc97096a" name="Changes" comment="add interface that helps to create quack of duck">
+      <change afterPath="$PROJECT_DIR$/src/duck/ducks/DecoyDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/duck/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duck/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiniDuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/duck/ducks/MallarDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/duck/ducks/MallarDuck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -61,11 +88,19 @@
       <option name="project" value="LOCAL" />
       <updated>1684026444546</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add interface that helps to create quack of duck">
+      <created>1684027127864</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684027127864</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add interface that helps to create quack of duck" />
+    <option name="LAST_COMMIT_MESSAGE" value="add interface that helps to create quack of duck" />
   </component>
 </project>
